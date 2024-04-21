@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="1000"
+   width="1000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="book.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.813"
+     inkscape:cx="570.72571"
+     inkscape:cy="610.70111"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <metadata
+     id="metadata1">IcoFont Icons</metadata>
+  <title
+     id="title1">book</title>
+  <glyph
+     glyph-name="book"
+     unicode=""
+     horiz-adv-x="1000"
+     id="glyph1" />
+  <path
+     d="m 389.98042,553.93685 105.76918,32.54789 c 0,-105.58733 -0.30365,-211.10436 0.40486,-316.6917 0.10121,-10.19318 -4.8583,-17.29326 -16.80162,-23.26857 -1.92307,-0.98417 -3.84615,-2.03864 -5.87044,-3.02281 C 443.21926,228.66882 408.09782,219.95189 372.06545,212.71121 299.19099,197.94867 224.08982,190.14561 147.9765,185.71685 131.2761,184.73268 114.47449,184.59208 97.065593,184.1 v 337.42955 c 29.453427,1.47625 58.097137,2.60102 86.740847,4.49906 70.34409,4.70996 139.47361,13.0051 206.17398,27.90824 z m 114.37241,32.89938 85.52627,-28.04883 c 87.55057,-21.65173 179.25092,-31.07164 272.4695,-35.4301 13.46153,-0.63268 27.02428,-0.98418 40.48581,-1.47626 V 184.38119 c -6.68016,0 -12.85425,-0.35148 -18.8259,0.0703 -38.96759,2.53072 -78.13762,4.42876 -116.90278,8.08425 -59.81778,5.55353 -118.72463,14.05957 -174.99991,28.33002 -28.84614,7.31098 -56.4777,15.88731 -78.7449,30.08747 -6.37651,4.00698 -9.31173,8.36544 -9.31173,14.41105 0.40486,107.13389 0.30364,214.26777 0.30364,321.47195 z"
+     id="path1"
+     sodipodi:nodetypes="cccccccccccccccccccccc"
+     style="stroke-width:0.843518" />
+</svg>
